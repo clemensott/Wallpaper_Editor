@@ -1,0 +1,6 @@
+g:\users\clemens\documents\visual studio 2015\Projects\Wallpaper_Editor\Wallpaper_Editor\bin\Debug\Wallpaper_Editor.exe.config
+g:\users\clemens\documents\visual studio 2015\Projects\Wallpaper_Editor\Wallpaper_Editor\bin\Debug\Wallpaper_Editor.exe
+g:\users\clemens\documents\visual studio 2015\Projects\Wallpaper_Editor\Wallpaper_Editor\bin\Debug\Wallpaper_Editor.pdb
+g:\users\clemens\documents\visual studio 2015\Projects\Wallpaper_Editor\Wallpaper_Editor\obj\Debug\Wallpaper_Editor.csprojResolveAssemblyReference.cache
+g:\users\clemens\documents\visual studio 2015\Projects\Wallpaper_Editor\Wallpaper_Editor\obj\Debug\Wallpaper_Editor.exe
+g:\users\clemens\documents\visual studio 2015\Projects\Wallpaper_Editor\Wallpaper_Editor\obj\Debug\Wallpaper_Editor.pdb
